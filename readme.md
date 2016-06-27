@@ -1,2 +1,2 @@
-** Pebble Capital Bikeshare
+## Pebble Capital Bikeshare
 A smartwatch app displaying. the availability status of nearby Capital Bikeshare docks. Read more at the blog post [here.](http://andrewmcgill.me/http://www.andrewmcgill.me/2016/06/26/a-summer-of-make-every-week.html)
